@@ -29,10 +29,8 @@ public class DeathCalculator {
 		
 		System.out.printf("\nYou Will be On Earth Only %d Years %d Months %d Days Only, Hurry Up to do More Important things", y, m, d );
 		
-		
-		
-		
 
 	}
 
 }
+
